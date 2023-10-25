@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     padding: 1rem;
-    color: gray;
+    color: #616263;
 }
 
 .link {
@@ -55,7 +55,7 @@ body {
 }
 
 .blog__time {
-    color: #a4a4a4;
+    color: black;
     font-style: italic;
 }
 
@@ -71,7 +71,7 @@ body {
     text-decoration-color: #a4a4a4;
 }
 
-.footer {
+.footer__text {
     padding-block: 1rem;
     text-align: center;
 }
